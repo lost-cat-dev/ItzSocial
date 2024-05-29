@@ -1,2 +1,2 @@
 # ItzSocial
-Social media
+Social media made by lost-cat-dev
